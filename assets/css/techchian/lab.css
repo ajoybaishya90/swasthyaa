@@ -1,0 +1,241 @@
+@media only screen and (max-width : 1920px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none;
+	}
+	#healthLi , #personalLi{
+		margin-left : 40px
+	}
+	#headingForm{
+		height : 70px;
+	}
+	#headingText{
+		color: #a0a0a0; margin-top : 18px; font-size : 20px; font-weight : 500;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:20px;
+	}	 
+}
+
+@media only screen and (max-width : 1600px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none;
+	}
+	#healthLi , #personalLi{
+		margin-left : 40px
+	}
+	#headingForm{
+		height : 70px;
+	}
+	#headingText{
+		color: #a0a0a0; margin-top : 18px; font-size : 20px; font-weight : 500;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:20px;
+	}	 
+}
+	
+@media only screen and (max-width : 1366px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none;
+	}
+	#healthLi , #personalLi{
+		margin-left : 40px
+	}
+	#headingForm{
+		height : 70px;
+	}
+	#headingText{
+		color: #a0a0a0; margin-top : 18px; font-size : 20px; font-weight : 500;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:20px;
+	}
+}
+	
+@media only screen and (max-width : 1280px){
+	
+		 
+}
+	
+@media only screen and (max-width : 1024px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none; 
+	}
+	#healthLi , #personalLi{
+		
+	}
+	#headingForm{
+		height : 70px;
+	}
+	#headingText{
+		color: #a0a0a0; margin-top : 20px; font-size : 15px; font-weight : 500;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:20px;
+	}	
+    #age{
+		margin-top : 10px;
+	}	
+}
+	
+@media only screen and (max-width : 980px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none; margin-left : 30px; 
+	}
+	#healthLi , #personalLi{
+		
+	}
+	#headingForm{
+		height : 70px;
+	}
+	#headingText{
+		color: #a0a0a0; margin-top : 20px; font-size : 15px; font-weight : 500;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:20px;
+	}	 
+}
+	
+@media only screen and (max-width : 900px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none;
+	}
+	#healthLi , #personalLi{
+		margin-left : 0;
+	}
+	#headingForm{
+		height : 70px;
+	}
+	#headingText{
+		color: #a0a0a0; margin-top : 20px; font-size : 15px; font-weight : 500;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:20px; margin-left : -10px;
+	}
+}
+	
+@media only screen and (max-width : 800px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none; font-size : 10px;
+	}
+	#healthLi , #personalLi{
+		margin-left : -5px;
+	}
+	#headingForm{
+		height : 70px;
+	}
+	#headingText{
+		color: #a0a0a0; margin-top : 20px; font-size : 15px; font-weight : 500;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:20px; margin-left : -30px;
+	}	 
+}
+	
+@media only screen and (max-width : 768px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none; margin : 3px;
+	}
+	
+	#personalDetailsBtn{
+		margin-left : 20px
+	}
+	#headingForm{
+		height : 70px;
+	}
+	#headingText{
+		color: #a0a0a0; margin-top : 18px; font-size : 15px; font-weight : 500;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:20px; margin-left : -50px;
+	}
+}
+
+@media only screen and (max-width : 640px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none; margin : 3px;
+	}
+	
+	#healthLi , #personalLi{
+		margin-left : 0px
+	}
+	#headingForm{
+		color: #a0a0a0;  margin-top:20px;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:20px; margin-left : 0px;
+	}
+	#birthYear , #birthMonth , #age , #district , #city{
+		margin-top : 10px;
+	}
+}
+
+@media only screen and (max-width : 480px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none; margin : 3px; font-size : 7px;
+	}
+	
+	#healthLi , #personalLi{
+		margin-left : 0px
+	}
+	#headingForm{
+		color: #a0a0a0;  margin-top:20px;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:20px; margin-left : 0px;
+	}
+	#headingText{
+		color: #a0a0a0; margin-top : 18px; font-size : 10px; font-weight : 500;
+	}
+	
+}
+
+@media only screen and (max-width : 360px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none; margin : 3px; font-size : 5px;
+	}
+	
+	#personalDetailsBtn{
+		margin-left : -20px
+	}
+	#headingForm{
+		color: #a0a0a0;  margin-top:20px;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:18px; margin-left : 0;
+	}
+	#headingText{
+		color: #a0a0a0; margin-top : 20px; font-size : 8px; font-weight : 500;
+	}	 
+}
+
+@media only screen and (max-width : 320px){
+	
+	#personalDetailsBtn , #healthDetailsBtn , #referralDetailsBtn{
+		background : #ccced1; color : red; border : none; margin : 3px; font-size : 5px;
+	}
+	
+	#personalDetailsBtn{
+		margin-left : -20px
+	}
+	#headingForm{
+		color: #a0a0a0;  margin-top:20px;
+	}
+	#headingIcon{
+		color: #a0a0a0;  margin-top:18px; margin-left : 0;
+	}
+	#headingText{
+		color: #a0a0a0; margin-top : 20px; font-size : 8px; font-weight : 500;
+	}
+}

@@ -1,0 +1,157 @@
+body{
+	background : #fff;  overflow: hidden;
+	font-family: 'Roboto';
+}
+
+/*.navbar-default .nav > li > a:hover{
+	color : #fff !important;
+}*/
+
+.nav > li > a:hover{
+	background-color: #C39F51;
+}
+
+.nav > .active > a{
+	background-color: #606c38 !important;
+	color : #fff !important;
+}
+
+.nav > li{
+	border-bottom : 1px solid #B79049;
+}
+
+.nav > li > a{
+	color : #000;
+}
+
+.btn{
+	background : #606c38 !important;
+	color : #fff;
+	border-radius : 0;
+	border:none;
+}
+
+#wrapper {
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    display: inline-block;
+}
+#main-wrapper {
+    height: 100%;
+    overflow-y: auto;
+    padding: 50px 0 0px 0;
+}
+#main {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    padding: 0 15px;
+}
+#sidebar-wrapper {
+    height: 100%;
+    padding: 50px 0 0px 0;
+    position: fixed;
+	background-color: #e5b45c;
+}
+#sidebar {
+    position: relative;
+    height: 100%;
+    overflow:hidden;
+	background-color: #e5b45c;
+}
+#sidebar .list-group-item {
+        border-radius: 0;
+        border-left: 0;
+        border-right: 0;
+        border-top: 0;
+}
+@media (max-width: 992px) {
+    body {
+        padding-top: 0px;
+    }
+}
+@media (min-width: 992px) {
+    #main-wrapper {
+        float:right;
+    }
+}
+@media (max-width: 992px) {
+    #main-wrapper {
+        padding-top: 0px;
+    }
+}
+@media (max-width: 992px) {
+    #sidebar-wrapper {
+        position: static;
+        height:auto;
+        max-height: 300px;
+  		border-right:0;
+	}
+}
+.footer {
+    background-color:#ffffff;
+	bottom:0;
+  	position:fixed;
+    padding:10px;
+}
+
+
+/** new code **/
+
+.anmcode > li > a:hover{
+	background-color:none;
+}
+.anmcode > li {
+	border:none;
+}
+.tech1{
+	background-color:#ddd;
+	color:#606c38;
+
+}
+.nav > li.techli{
+	border-bottom:none;
+}
+.tech2{
+	background-color:#fff;
+	color:#606c38;
+
+}
+.nav > li.techli1{
+	border-bottom:none;
+}
+.pap{
+	margin-left:57px;
+}
+.ltp{
+	margin-left:17px;
+}
+.new_line{
+	text-align:center;
+	font-size:12px;
+}
+input[type="radio"] {
+ 
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  padding: 2px;
+  background-clip: content-box;
+  border: 2px solid #bbbbbb;
+  background-color: #e7e6e7 ;
+  border-radius: 50%;
+}
+
+/* appearance for checked radiobutton */
+input[type="radio"]:checked {
+  background-color: #606c38 ;
+  border:2px solid #606c38 ;
+}
+/** end **/
