@@ -1,0 +1,274 @@
+@media only screen and (max-width : 1920px){
+	
+	#todayBtn , #monthlyBtn{
+		color : red; border : none; border-radius : 2px; font-family: Roboto; background-color: rgba(204, 204, 204, 0.25);
+	}
+	#todayBtn{
+		margin-left : -175px;
+	}
+	#monthlyLi{
+		margin-left : 0px;
+	}
+	.monthyearform{
+		margin-left : -200px;
+	}
+	#headerText{
+		color: #a0a0a0; font-weight : 500;
+	}
+	#headerIcon{
+		color: #a0a0a0; margin-top: -5px;
+	}
+	#pageHeading{
+		margin-top : 15px; text-align : left;
+	}
+	.patientTable{
+		width : 95%; margin-left: 30px;
+	}
+	#recentPatientheading{
+		margin-left : 30px;
+	}	
+}
+
+@media only screen and (max-width : 1600px){
+	
+	#todayBtn , #monthlyBtn{
+		color : red; border : none; border-radius : 2px; font-family: Roboto; background-color: rgba(204, 204, 204, 0.25);
+	}
+	#monthlyLi{
+		margin-left : 40px;
+	}
+	#todayBtn{
+		margin-left : 0;
+	}
+	.monthyearform{
+		margin-left : -15px;
+	}
+	#headerText{
+		color: #a0a0a0; font-weight : 500;
+	}
+	#headerIcon{
+		color: #a0a0a0; margin-top: -5px;
+	}
+	#pageHeading{
+		margin-top : 15px;
+	}
+	.patientTable{
+		width : 95%; margin-left: 30px;
+	}	 
+}
+	
+@media only screen and (max-width : 1366px){
+	
+	#todayBtn , #monthlyBtn{
+		color : red; border : none; border-radius : 2px; font-family: Roboto; background-color: rgba(204, 204, 204, 0.25);
+	}
+	#monthlyLi{
+		margin-left : 40px;
+	}
+	#todayBtn{
+		margin-left : 0;
+	}
+	.monthyearform{
+		margin-left : -15px;
+	}
+	#headerText{
+		color: #a0a0a0; font-weight : 500;
+	}
+	#headerIcon{
+		color: #a0a0a0; margin-top: -5px;
+	}
+	#pageHeading{
+		margin-top : 15px;
+	}
+	.patientTable{
+		width : 95%; margin-left: 30px;
+	}
+}
+	
+@media only screen and (max-width : 1280px){
+	
+	#todayBtn , #monthlyBtn{
+		color : red; border : none; border-radius : 2px; font-family: Roboto; background-color: rgba(204, 204, 204, 0.25);
+	}
+	#monthlyLi{
+		margin-left : 40px;
+	}
+	#todayBtn{
+		margin-left : 0;
+	}
+	.monthyearform{
+		margin-left : -15px;
+	}
+	#headerText{
+		color: #a0a0a0; font-weight : 500;
+	}
+	#headerIcon{
+		color: #a0a0a0; margin-top: -5px;
+	}
+	#pageHeading{
+		margin-top : 15px;
+	}
+	.patientTable{
+		width : 95%; margin-left: 30px;
+	}	 
+}
+	
+@media only screen and (max-width : 1024px){
+	
+	#todayBtn , #monthlyBtn{
+		color : red; border : none; border-radius : 2px; font-family: Roboto; background-color: rgba(204, 204, 204, 0.25);
+	}
+	#monthlyLi{
+		margin-left : 40px;
+	}
+	#todayBtn{
+		margin-left : 0;
+	}
+	.monthyearform{
+		margin-left : -15px;
+	}
+	#headerText{
+		color: #a0a0a0; font-weight : 500;
+	}
+	#headerIcon{
+		color: #a0a0a0; margin-top: -5px;
+	}
+	#pageHeading{
+		margin-top : 15px;
+	}
+	.patientTable{
+		width : 95%; margin-left: 30px;
+	}		 
+}
+	
+@media only screen and (max-width : 980px){
+	
+		 
+}
+	
+@media only screen and (max-width : 900px){
+	
+		 
+}
+	
+@media only screen and (max-width : 800px){
+	
+	
+}
+	
+@media only screen and (max-width : 768px){
+	
+		 
+}
+
+@media only screen and (max-width : 640px){
+	
+	#todayBtn , #monthlyBtn{
+		color : red; border : none; border-radius : 2px; font-family: Roboto; background-color: rgba(204, 204, 204, 0.25);
+	}
+	#monthlyLi{
+		margin-left : 40px;
+	}
+	#todayBtn{
+		margin-left : 0;
+	}
+	.monthyearform{
+		margin-left : 0;
+	}
+	#headerText{
+		color: #a0a0a0; font-weight : 500;
+	}
+	#headerIcon{
+		color: #a0a0a0; margin-top: -5px;
+	}
+	#pageHeading{
+		margin-top : 15px;
+	}
+	.patientTable{
+		width : 95%; margin-left: 30px;
+	}	
+}
+
+@media only screen and (max-width : 480px){
+	
+	#todayBtn , #monthlyBtn{
+		color : red; border : none; border-radius : 2px; font-family: Roboto; background-color: rgba(204, 204, 204, 0.25);
+	}
+	#monthlyLi{
+		margin-left : 10px;
+	}
+	#todayBtn{
+		margin-left : 0;
+	}
+	.monthyearform{
+		margin-left : 0;
+	}
+	#headerText{
+		color: #a0a0a0; font-weight : 500;
+	}
+	#headerIcon{
+		color: #a0a0a0; margin-top: -5px; display : none;
+	}
+	#pageHeading{
+		margin-top : 15px;
+	}
+	.patientTable{
+		width : 95%; margin-left: 30px;
+	}	 
+}
+
+@media only screen and (max-width : 360px){
+	
+	#todayBtn , #monthlyBtn{
+		color : red; border : none; border-radius : 2px; font-family: Roboto; background-color: rgba(204, 204, 204, 0.25);
+	}
+	#monthlyLi{
+		margin-left : 10px;
+	}
+	#todayBtn{
+		margin-left : 0;
+	}
+	.monthyearform{
+		margin-left : 0;
+	}
+	#headerText{
+		color: #a0a0a0; font-weight : 500;
+	}
+	#headerIcon{
+		color: #a0a0a0; margin-top: -5px; display : none;
+	}
+	#pageHeading{
+		margin-top : 15px;
+	}
+	.patientTable{
+		width : 95%; margin-left: 30px;
+	}		 
+}
+
+@media only screen and (max-width : 320px){
+	
+	#todayBtn , #monthlyBtn{
+		color : red; border : none; border-radius : 2px; font-family: Roboto; background-color: rgba(204, 204, 204, 0.25);
+	}
+	#monthlyLi{
+		margin-left : 10px;
+	}
+	#todayBtn{
+		margin-left : 0;
+	}
+	.monthyearform{
+		margin-left : 0;
+	}
+	#headerText{
+		color: #a0a0a0; font-weight : 500;
+	}
+	#headerIcon{
+		color: #a0a0a0; margin-top: -5px; display : none;
+	}
+	#pageHeading{
+		margin-top : 15px;
+	}
+	.patientTable{
+		width : 95%; margin-left: 30px;
+	}	
+}
