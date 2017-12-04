@@ -1,0 +1,114 @@
+@media only screen and (max-width : 1920px){
+	
+	table{
+		font-size : 12px;
+	}	 
+}
+
+@media only screen and (max-width : 1600px){
+	
+	table{
+		font-size : 12px;
+	}	 
+}
+	
+@media only screen and (max-width : 1366px){
+	
+	table{
+		font-size : 12px;
+	}
+}
+	
+@media only screen and (max-width : 1280px){
+	
+	table{
+		font-size : 12px;
+	}	 
+}
+	
+@media only screen and (max-width : 1024px){
+	
+	table{
+		font-size : 12px;
+	}	 
+}
+	
+@media only screen and (max-width : 980px){
+	
+	table{
+		font-size : 10px;
+	}
+	th{
+		width : 20px;
+	}
+}
+	
+@media only screen and (max-width : 900px){
+	
+	table{
+		font-size : 10px;
+	}
+	th{
+		width : 20px;
+	}
+}
+	
+@media only screen and (max-width : 800px){
+
+	table{
+		font-size : 10px;
+	}
+	th{
+		width : 20px;
+	}
+}
+	
+@media only screen and (max-width : 768px){
+	
+	table {
+		font-size : 7px;
+	}
+	td {
+		width : 30px !important;
+	}
+}
+
+@media only screen and (max-width : 640px){
+	
+	table{
+		font-size : 10px;
+	}
+	th{
+		width : 20px;
+	}
+}
+
+@media only screen and (max-width : 480px){
+	
+	table{
+		font-size : 10px;
+	}
+	th{
+		width : 20px;
+	}
+}
+
+@media only screen and (max-width : 360px){
+	
+	table{
+		font-size : 10px;
+	}
+	th{
+		width : 20px;
+	}	 
+}
+
+@media only screen and (max-width : 320px){
+	
+	table{
+		font-size : 10px;
+	}
+	th{
+		width : 20px;
+	}
+}

@@ -1,0 +1,142 @@
+body{
+	background : #fff;  overflow-x: hidden;
+	font-family: 'Roboto';
+}
+
+/*.navbar-default .nav > li > a:hover{
+	color : #fff !important;
+}*/
+
+.nav > li > a:hover{
+	background-color: #e09d59;
+}
+
+.nav > .active > a{
+	background-color: #f1635d !important;
+	color : #fff !important;
+}
+
+.nav > li{
+	border-bottom : 1px solid #B79049;
+}
+
+.nav > li > a{
+	color : #000;
+}
+
+.btn{
+	background : #f1635d !important;
+	color : #fff;
+	border-radius : 0;
+	border:none;
+	text-align : center;
+}
+
+#wrapper {
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    display: inline-block;
+}
+#main-wrapper {
+    height: 100%;
+    overflow-y: auto;
+    padding: 50px 0 0px 0;
+}
+#main {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    padding: 0 15px;
+}
+#sidebar-wrapper {
+    height: 100%;
+    padding: 50px 0 0px 0;
+    position: fixed;
+	background-color: #e5b45c;
+}
+#sidebar {
+    position: relative;
+    height: 100%;
+    overflow:hidden;
+	background-color: #e5b45c;
+}
+#sidebar .list-group-item {
+        border-radius: 0;
+        border-left: 0;
+        border-right: 0;
+        border-top: 0;
+}
+@media (max-width: 992px) {
+    body {
+        padding-top: 0px;
+    }
+}
+@media (min-width: 992px) {
+    #main-wrapper {
+        float:right;
+    }
+}
+@media (max-width: 992px) {
+    #main-wrapper {
+        padding-top: 0px;
+    }
+}
+@media (max-width: 992px) {
+    #sidebar-wrapper {
+        position: static;
+        height:auto;
+        max-height: 300px;
+  		border-right:0;
+	}
+}
+.footer {
+    background-color:#ffffff;
+	bottom:0;
+  	position:fixed;
+    padding:10px;
+}
+
+
+
+
+/** new css **/
+.anmcode > li > a:hover{
+	background-color:none;
+}
+.anmcode > li {
+	border:none;
+}
+
+input[type="radio"] {
+ 
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  padding: 2px;
+  background-clip: content-box;
+  border: 2px solid #bbbbbb;
+  background-color: #e7e6e7;
+  border-radius: 50%;
+}
+
+/* appearance for checked radiobutton */
+input[type="radio"]:checked {
+  background-color: #e06826;
+  border:2px solid #e06826;
+}
+
+.button2{
+	margin-left:28px;
+}
+.patient a{
+	background-color:#fff;
+}
+
+/** end **/
